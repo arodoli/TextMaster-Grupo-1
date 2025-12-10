@@ -11,7 +11,7 @@ describe('Pruebas para TextMaster', () => {
     expect(reverse('12345')).toBe('54321');
     expect(reverse('')).toBe('');
     expect(reverse("esto es una cadena con espacios y larga"))
-    .toBe("agral y socaipse noc edanac anu se otse");
+    .toBe("agral y soicapse noc anedac anu se otse");
   });
 
   it('debería analizar el texto correctamente', () => {
