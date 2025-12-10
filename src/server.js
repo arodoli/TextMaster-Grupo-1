@@ -1,4 +1,4 @@
-﻿// Importamos la librería Express
+// Importamos la librería Express
 const express = require('express');
 // Importar morgan para logging HTTP
 const morgan = require('morgan');
